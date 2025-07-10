@@ -3,7 +3,7 @@ Aspiring Full-Stack Developer | Exploring Cybersecurity Basics
 📍 Amritsar, Punjab, India  
 📫 Email: divtej22@gmail.com  
 🔗 GitHub: [github.com/Di49v](https://github.com/Di49v)  
-🔗 LinkedIn: [linkedin.com/in/divleen-kaur-306900324](https://www.linkedin.com/in/divleen-kaur-306900324)
+🔗 LinkedIn: [linkedin.com/in/divleen-kaur-306900324](https://www.linkedin.com/in/divleen-kaur-306900324)  
 🔗 Resume (hosted via GitHub Pages): [Di49v.github.io/resume/](https://Di49v.github.io/resume/) 
 
 ---
@@ -38,7 +38,7 @@ Focused learner exploring full-stack development with a growing interest in cybe
 Relevant Coursework: Python
 
 **Certification:**  
-Prompt Design in Vertex AI – Google Cloud 
-*Issued May 2025*
-*Credential ID 15439332*
+Prompt Design in Vertex AI – Google Cloud  
+*Issued May 2025*  
+*Credential ID 15439332*  
 *[Show Credentials](https://www.cloudskillsboost.google/public_profiles/b16b7c4d-ae9e-47ed-a2fc-70b7043bb5af/badges/15439332?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)*
